@@ -88,3 +88,14 @@ LaST
 └── README.md  # This file
 ```
 
+## Citation
+Please cite our paper if it's helpful to you in your research.
+
+```
+@inproceedings{wang2022latent,
+    title = "Learning Latent Seasonal-Trend Representations for Time Series Forecasting",
+    author = "Wang, Zhiyuan  and  Xu, Xovee  and  Zhang, Weifeng  and  Trajcevski, Goce  and  Zhong, Ting  and  Zhou, Fan",
+    booktitle = "Advances in Neural Information Processing Systems",
+    year = "2022"
+}
+```
