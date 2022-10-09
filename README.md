@@ -2,7 +2,10 @@
 
 ![](https://img.shields.io/badge/python-3.8.12-green)![](https://img.shields.io/badge/pytorch-1.8.1-green)![](https://img.shields.io/badge/cudatoolkit-10.2-green)![](https://img.shields.io/badge/cudnn-7.6.5-green)
 
-In this repository, we provide source code of LaST framework for reproductivity.
+In this repository, we provide the original PyTorch implementation of LaST framework.  
+
+[![](https://img.shields.io/badge/Download-Paper-%234285F4?logo=GoogleDrive&labelColor=lightgrey)](https://drive.google.com/file/d/1LIi2OyHV0sqplMiw6l_aTjI5JhRQrYyZ/view?usp=sharing)
+
 
 ## Dataset
 
